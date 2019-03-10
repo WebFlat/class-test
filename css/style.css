@@ -64,7 +64,7 @@ label span {
 	margin-left: 5px;
 	color: #fff;
 }
-input[type=checkbox] {
+input {
 	zoom: 1.5;
 	vertical-align: middle;
 	background-color: #fff;
