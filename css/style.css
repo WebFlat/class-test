@@ -17,7 +17,7 @@ body {
 	font-family: 'Trebuchet MS', Trebuchet, Arial, sans-serif;
 	border: 15px solid #fff;
 	height: 100vh;
-	background-color: rgb(59, 63, 69);
+	background-color: #dbdbdb;
 	transition: all .2s ease-in;
 }
 header {
@@ -39,7 +39,7 @@ form ul {
 	text-decoration: none;
 }
 li {
-	border-bottom: 2px solid rgb(135, 130, 160);
+	border-bottom: 2px solid #bdbdbd;
 	border-top: 2px solid rgb(135, 130, 160);
 	background-color: rgb(135, 130, 160);
 	display: block;
@@ -51,8 +51,8 @@ li:nth-child(2n) {
 }
 ul li:hover,
 ul li:active {
-	border-bottom: 2px solid #fff;
-	border-top: 2px solid #fff;
+	border-bottom: 3px solid #fff;
+	border-top: 3px solid #fff;
 	background-color: rgb(97, 93, 120);
 }
 li label {
@@ -68,7 +68,7 @@ input {
 	zoom: 1.5;
 	vertical-align: middle;
 	background-color: #fff;
-	
+
 }
 input:checked + span,
 input:checked + span>small {
